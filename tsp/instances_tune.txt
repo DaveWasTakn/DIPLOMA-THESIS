@@ -1,0 +1,16 @@
+./tune/tsp_40_1_1.lp
+./tune/tsp_40_2_1.lp
+./tune/tsp_40_3_1.lp
+./tune/tsp_40_4_1.lp
+./tune/tsp_60_1_1.lp
+./tune/tsp_60_2_1.lp
+./tune/tsp_60_3_1.lp
+./tune/tsp_60_4_1.lp
+./tune/tsp_80_1_1.lp
+./tune/tsp_80_2_1.lp
+./tune/tsp_80_3_1.lp
+./tune/tsp_80_4_1.lp
+./tune/tsp_100_1_1.lp
+./tune/tsp_100_2_1.lp
+./tune/tsp_100_3_1.lp
+./tune/tsp_100_4_1.lp
