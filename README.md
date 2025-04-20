@@ -12,9 +12,9 @@ For each benchmark problem, we provide the used encoding, instances (separate fo
   - **instances** [MM18,MM21]
 - Valves Location Problem (VLP)
   - **encoding** [GNP13]
-  - **instances** ![ASPCOMP 2014](https://www.mat.unical.it/aspcomp2014)
+  - **instances** [ASPCOMP 2014](https://www.mat.unical.it/aspcomp2014)
 - Travelling Salesman Problem (TSP)
-  - **encoding** ![Asparagus Platform](https://asparagus.cs.uni-potsdam.de) [EGHR+22]
+  - **encoding** [Asparagus Platform](https://asparagus.cs.uni-potsdam.de) [EGHR+22]
   - **instances** our [instance generator](./tsp/instanceGenerator.R) makes use of [tspgen](https://github.com/jakobbossek/tspgen)
 - Multi-Agent Path Finding (MAPF)
   - **encoding** [GHB20]
