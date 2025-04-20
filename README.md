@@ -1,5 +1,10 @@
 # Bayesian Hyperparameter Optimization with ALASPO and Applications
-Supplementary Materials and Experimental Results
+
+## Experimental Results
+Experimental results are available at Zenodo https://doi.org/10.5281/zenodo.15252027
+
+## Supplementary Materials
+For each benchmark problem, we provide the used encoding, instances (separate for tuning and validation), instance generator (if used), and custom feature extractor.
 
 ### Sources
 - Test Laboratory Scheduling Problem (TLSPS)
